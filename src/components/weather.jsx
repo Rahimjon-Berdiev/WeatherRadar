@@ -29,13 +29,13 @@ const weather = () => {
     return (
         <div className="container">
             <div className="navbar">
-                <i className="fa-solid fa-cloud-sun-rain" />
-                <p>weather.com</p>
+                <i className="fa-solid fa-satellite-dish" />
+                <p>Weather Radar</p>
             </div>
 
             <div className="container-textbox">
                 <input className="txt-city"
-                    placeholder="Enter your city here"
+                    placeholder="Enter Your City"
                     value={city}
                     onChange={(e) => {
                         setCity(e.target.value)

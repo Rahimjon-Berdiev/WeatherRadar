@@ -1,8 +1,8 @@
-# 🌤️ weather.com
+# 🌤️ WeatherRadar
 
 A clean and responsive **weather forecast app** built using **React**, **Axios**, and the **WeatherAPI**. Users can search for any city to view real-time weather information including temperature, condition, humidity, and wind speed.
 
-![screenshot](https://github.com/Rahimjon-Berdiev/weather.com/blob/main/src/assets/images/ss_pc.png)
+![screenshot](https://github.com/Rahimjon-Berdiev/WeatherRadar/blob/main/src/assets/images/ss_pc.png)
 
 ---
 
@@ -35,13 +35,13 @@ Below are the screenshots showing how the application looks on both desktop and 
 
 ### 💻 Web View
 
-![Web View](https://github.com/Rahimjon-Berdiev/WeatherRadar/blob/main/src/assets/images/.png)
+![Web View](https://github.com/Rahimjon-Berdiev/WeatherRadar/blob/main/src/assets/images/ss_pc.png)
 
 ---
 
 ### 📱 Mobile View
 
-![Mobile View](https://github.com/Rahimjon-Berdiev/weather.com/blob/main/src/assets/images/mobile_ss.png)
+![Mobile View](https://github.com/Rahimjon-Berdiev/WeatherRadar/blob/main/src/assets/images/ss_mobile.png)
 
 ---
 
@@ -70,8 +70,8 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rahimjon-Berdiev/weather.com.git
-cd weather.com
+git clone https://github.com/Rahimjon-Berdiev/WeatherRadar.git
+cd WeatherRadar
 ```
 
 ## 2. Install Dependencies
@@ -99,20 +99,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
-### ❗ Personal Note
-
-> 🗂️ This project is from when I **first started learning front-end development**.  
-> I recently found the old version on my drive.
->
-> So, I:
->
-> - ✅ Converted it from **class-based components** to **functional components**
-> - 🧹 Cleaned up the structure
-> - 🎨 Redesigned the layout slightly
-> - 📤 Pushed it to GitHub as part of my coding archive
->
-> It's not a complex app — but it's meaningful to me as a reminder of where I began.
 
 ### 🙏 Acknowledgements
 
